@@ -701,7 +701,7 @@ def filter_wss(coins_config):
             nodes = []
             for i in coins_config[coin]["nodes"]:
                 if "ws_url" in i:
-                    nodes.append(i)
+                    nodes.append({"ws_url": i["ws_url"]})
             if len(nodes) > 0:
                 coins_config_wss.update({coin: coins_config[coin]})
                 coins_config_wss[coin]["nodes"] = nodes
