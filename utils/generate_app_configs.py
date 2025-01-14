@@ -697,6 +697,17 @@ def filter_wss(coins_config):
             if len(electrums) > 0:
                 coins_config_wss.update({coin: coins_config[coin]})
                 coins_config_wss[coin]["electrum"] = electrums
+        elif "nodes" in coins_config[coin]:
+            nodes = []
+            for i in coins_config[coin]["nodes"]:
+                if "ws_url" in i:
+                    nodes.append(i)
+            if len(nodes) > 0:
+                coins_config_wss.update({coin: coins_config[coin]})
+                coins_config_wss[coin]["nodes"] = nodes
+        else:
+            logger.warning(f"{coin} not checked for WSS filter yet, including anyway.")
+            coins_config_wss.update({coin: coins_config[coin]})
 
     with open(f"{script_path}/coins_config_wss.json", "w+") as f:
         json.dump(coins_config_wss, f, indent=4)
