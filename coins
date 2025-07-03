@@ -2611,7 +2611,6 @@
       "type": "UTXO"
     },
     "derivation_path": "m/44'/160'",
-    "trezor_coin": "Bitcore",
     "links": {
       "github": "https://github.com/LIMXTEC/BitCore",
       "homepage": "https://bitcore.cc"
