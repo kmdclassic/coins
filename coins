@@ -2323,7 +2323,6 @@
       "type": "UTXO"
     },
     "derivation_path": "m/44'/0'",
-    "trezor_coin": "Bitcoin",
     "links": {
       "github": "https://github.com/bitcoin/bitcoin",
       "homepage": "https://bitcoin.org"
@@ -4046,7 +4045,6 @@
       "type": "UTXO"
     },
     "derivation_path": "m/44'/20'",
-    "trezor_coin": "DigiByte",
     "links": {
       "github": "https://github.com/DigiByte-Core/digibyte",
       "homepage": "https://digibyte.io"
