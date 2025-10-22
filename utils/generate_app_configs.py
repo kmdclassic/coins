@@ -12,7 +12,6 @@ from ensure_chainids import ensure_chainids
 from logger import logger
 from uptime_tracker import UptimeTracker, format_contact_info
 
-
 current_time = time.time()
 script_path = os.path.abspath(os.path.dirname(__file__))
 repo_path = script_path.replace("/utils", "")

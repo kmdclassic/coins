@@ -1,7 +1,10 @@
 {
   "rpc_nodes": [
     {
-      "url": "https://iristest-rpc.bravo.komodo.earth"
+      "url": "https://iristest-rpc.bravo.komodo.earth",
+      "api_url": "https://iristest-api.bravo.komodo.earth/",
+      "grpc_url": "https://iristest-grpc.bravo.komodo.earth/",
+      "ws_url": "wss://iristest-rpc.bravo.komodo.earth/websocket"
     }
   ]
 }

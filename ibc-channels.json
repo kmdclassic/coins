@@ -1,0 +1,383 @@
+{
+  "ATOM": {
+    "__error__": {
+      "message": "HTTP Error 502: Bad Gateway"
+    }
+  },
+  "IRIS": {
+    "agoric-3": {
+      "destiation channel": 30,
+      "source channel": 43,
+      "state": "OPEN"
+    },
+    "akashnet-2": {
+      "destiation channel": 11,
+      "source channel": 9,
+      "state": "OPEN"
+    },
+    "arkh": {
+      "destiation channel": 35,
+      "source channel": 44,
+      "state": "OPEN"
+    },
+    "axelar-dojo-1": {
+      "destiation channel": 88,
+      "source channel": 46,
+      "state": "OPEN"
+    },
+    "bitsong-2b": {
+      "destiation channel": 21,
+      "source channel": 47,
+      "state": "OPEN"
+    },
+    "bostrom": {
+      "destiation channel": 43,
+      "source channel": 50,
+      "state": "OPEN"
+    },
+    "carbon-1": {
+      "destiation channel": 28,
+      "source channel": 68,
+      "state": "OPEN"
+    },
+    "cheqd-mainnet-1": {
+      "destiation channel": 18,
+      "source channel": 48,
+      "state": "OPEN"
+    },
+    "chihuahua-1": {
+      "destiation channel": 60,
+      "source channel": 52,
+      "state": "OPEN"
+    },
+    "columbus-5": {
+      "destiation channel": 78,
+      "source channel": 63,
+      "state": "OPEN"
+    },
+    "comdex-1": {
+      "destiation channel": 9,
+      "source channel": 27,
+      "state": "OPEN"
+    },
+    "core-1": {
+      "destiation channel": 8,
+      "source channel": 5,
+      "state": "OPEN"
+    },
+    "cosmoshub-4": {
+      "destiation channel": 91,
+      "source channel": 0,
+      "state": "OPEN"
+    },
+    "crescent-1": {
+      "destiation channel": 37,
+      "source channel": 37,
+      "state": "OPEN"
+    },
+    "cronosmainnet_25-1": {
+      "destiation channel": 8,
+      "source channel": 66,
+      "state": "OPEN"
+    },
+    "crypto-org-chain-mainnet-1": {
+      "destiation channel": 16,
+      "source channel": 10,
+      "state": "OPEN"
+    },
+    "desmos-mainnet": {
+      "destiation channel": 25,
+      "source channel": 51,
+      "state": "OPEN"
+    },
+    "eightball-1": {
+      "destiation channel": 43,
+      "source channel": 42,
+      "state": "OPEN"
+    },
+    "emoney-3": {
+      "destiation channel": 2,
+      "source channel": 23,
+      "state": "OPEN"
+    },
+    "gravity-bridge-3": {
+      "destiation channel": 47,
+      "source channel": 29,
+      "state": "OPEN"
+    },
+    "impacthub-3": {
+      "destiation channel": 3,
+      "source channel": 24,
+      "state": "OPEN"
+    },
+    "injective-1": {
+      "destiation channel": 131,
+      "source channel": 49,
+      "state": "OPEN"
+    },
+    "iov-mainnet-ibc": {
+      "destiation channel": 10,
+      "source channel": 20,
+      "state": "OPEN"
+    },
+    "jackal-1": {
+      "destiation channel": 17,
+      "source channel": 53,
+      "state": "OPEN"
+    },
+    "juno-1": {
+      "destiation channel": 257,
+      "source channel": 54,
+      "state": "OPEN"
+    },
+    "kaiyo-1": {
+      "destiation channel": 83,
+      "source channel": 56,
+      "state": "OPEN"
+    },
+    "kava_2222-10": {
+      "destiation channel": 97,
+      "source channel": 55,
+      "state": "OPEN"
+    },
+    "mantle-1": {
+      "destiation channel": 34,
+      "source channel": 45,
+      "state": "OPEN"
+    },
+    "mars-1": {
+      "destiation channel": 18,
+      "source channel": 57,
+      "state": "OPEN"
+    },
+    "microtick-1": {
+      "destiation channel": 8,
+      "source channel": 22,
+      "state": "OPEN"
+    },
+    "odin-mainnet-freya": {
+      "destiation channel": 40,
+      "source channel": 58,
+      "state": "OPEN"
+    },
+    "osmosis-1": {
+      "destiation channel": 6,
+      "source channel": 3,
+      "state": "OPEN"
+    },
+    "phoenix-1": {
+      "destiation channel": 112,
+      "source channel": 40,
+      "state": "OPEN"
+    },
+    "planq_7070-2": {
+      "destiation channel": 30,
+      "source channel": 36,
+      "state": "OPEN"
+    },
+    "regen-1": {
+      "destiation channel": 3,
+      "source channel": 7,
+      "state": "OPEN"
+    },
+    "sentinelhub-2": {
+      "destiation channel": 3,
+      "source channel": 6,
+      "state": "OPEN"
+    },
+    "shentu-2.2": {
+      "destiation channel": 4,
+      "source channel": 28,
+      "state": "OPEN"
+    },
+    "sifchain-1": {
+      "destiation channel": 6,
+      "source channel": 18,
+      "state": "OPEN"
+    },
+    "sommelier-3": {
+      "destiation channel": 19,
+      "source channel": 60,
+      "state": "OPEN"
+    },
+    "stafihub-1": {
+      "destiation channel": 3,
+      "source channel": 33,
+      "state": "OPEN"
+    },
+    "stargaze-1": {
+      "destiation channel": 158,
+      "source channel": 61,
+      "state": "OPEN"
+    },
+    "stride-1": {
+      "destiation channel": 101,
+      "source channel": 62,
+      "state": "OPEN"
+    },
+    "umee-1": {
+      "destiation channel": 84,
+      "source channel": 64,
+      "state": "OPEN"
+    },
+    "uptick_117-1": {
+      "destiation channel": 0,
+      "source channel": 38,
+      "state": "OPEN"
+    }
+  },
+  "IRISTEST": {
+    "NUCLEUSTEST": {
+      "destiation channel": 0,
+      "source channel": 151,
+      "state": "OPEN"
+    },
+    "banksy-testnet-5": {
+      "destiation channel": 51,
+      "source channel": 155,
+      "state": "OPEN"
+    },
+    "cosmos-local": {
+      "destiation channel": 2,
+      "source channel": 47,
+      "state": "OPEN"
+    },
+    "cosmoshub": {
+      "destiation channel": 0,
+      "source channel": 54,
+      "state": "OPEN"
+    },
+    "exchain-100": {
+      "destiation channel": 0,
+      "source channel": 42,
+      "state": "OPEN"
+    },
+    "exchain-64": {
+      "destiation channel": 1,
+      "source channel": 51,
+      "state": "OPEN"
+    },
+    "exchain-65": {
+      "destiation channel": 3,
+      "source channel": 44,
+      "state": "OPEN"
+    },
+    "irishub-ibc": {
+      "destiation channel": 0,
+      "source channel": 36,
+      "state": "OPEN"
+    },
+    "merakichain": {
+      "destiation channel": 0,
+      "source channel": 14,
+      "state": "OPEN"
+    },
+    "nucleus-testnet-1": {
+      "destiation channel": 0,
+      "source channel": 86,
+      "state": "OPEN"
+    },
+    "nucleus-testnet-2": {
+      "destiation channel": 0,
+      "source channel": 92,
+      "state": "OPEN"
+    },
+    "origin_1170-1": {
+      "destiation channel": 3,
+      "source channel": 93,
+      "state": "OPEN"
+    },
+    "origin_1170-2": {
+      "destiation channel": 0,
+      "source channel": 107,
+      "state": "OPEN"
+    },
+    "origin_1170-3": {
+      "destiation channel": 0,
+      "source channel": 133,
+      "state": "OPEN"
+    },
+    "sandynet-1": {
+      "destiation channel": 1,
+      "source channel": 7,
+      "state": "OPEN"
+    },
+    "sifchain-devnet-1": {
+      "destiation channel": 1,
+      "source channel": 6,
+      "state": "OPEN"
+    },
+    "sifchain-testnet-1": {
+      "destiation channel": 8,
+      "source channel": 4,
+      "state": "OPEN"
+    },
+    "stargate-final": {
+      "destiation channel": 1,
+      "source channel": 0,
+      "state": "OPEN"
+    },
+    "test-1": {
+      "destiation channel": 5,
+      "source channel": 15,
+      "state": "OPEN"
+    },
+    "testnet-croeseid-4": {
+      "destiation channel": 196,
+      "source channel": 25,
+      "state": "OPEN"
+    },
+    "uptick_7000-1": {
+      "destiation channel": 0,
+      "source channel": 68,
+      "state": "OPEN"
+    },
+    "uptick_7000-2": {
+      "destiation channel": 0,
+      "source channel": 80,
+      "state": "OPEN"
+    },
+    "uptick_7002-1": {
+      "destiation channel": 0,
+      "source channel": 94,
+      "state": "OPEN"
+    },
+    "uptick_7776-1": {
+      "destiation channel": 4,
+      "source channel": 50,
+      "state": "OPEN"
+    },
+    "uptick_7777-1": {
+      "destiation channel": 1,
+      "source channel": 67,
+      "state": "OPEN"
+    },
+    "uptick_9000-1": {
+      "destiation channel": 0,
+      "source channel": 72,
+      "state": "OPEN"
+    }
+  },
+  "NUCLEUSTEST": {
+    "IRISTEST": {
+      "destiation channel": 151,
+      "source channel": 0,
+      "state": "OPEN"
+    },
+    "cosmoshub-4": {
+      "destiation channel": 842,
+      "source channel": 2,
+      "state": "OPEN"
+    },
+    "osmosis-1": {
+      "destiation channel": 74153,
+      "source channel": 3,
+      "state": "OPEN"
+    }
+  },
+  "OSMO": {
+    "__error__": {
+      "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osmosis-api.alpha.komodo.earth'. (_ssl.c:1000)>"
+    }
+  }
+}

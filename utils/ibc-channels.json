@@ -1,0 +1,2987 @@
+{
+  "ATOM": {
+    "HighlanderClanChain": {
+      "destiation channel": 0,
+      "source channel": 148,
+      "state": "OPEN"
+    },
+    "IRIS": {
+      "destiation channel": 0,
+      "source channel": 91,
+      "state": "OPEN"
+    },
+    "NUCLEUSTEST": {
+      "destiation channel": 2,
+      "source channel": 842,
+      "state": "OPEN"
+    },
+    "OSMO": {
+      "destiation channel": 0,
+      "source channel": 141,
+      "state": "OPEN"
+    },
+    "Oraichain": {
+      "destiation channel": 3,
+      "source channel": 291,
+      "state": "OPEN"
+    },
+    "Oraichain-fork": {
+      "destiation channel": 302,
+      "source channel": 1208,
+      "state": "OPEN"
+    },
+    "acre_9052-1": {
+      "destiation channel": 8,
+      "source channel": 457,
+      "state": "OPEN"
+    },
+    "agoric-3": {
+      "destiation channel": 0,
+      "source channel": 374,
+      "state": "OPEN"
+    },
+    "agoric-emerynet-5": {
+      "destiation channel": 3,
+      "source channel": 372,
+      "state": "OPEN"
+    },
+    "aioz_168-1": {
+      "destiation channel": 0,
+      "source channel": 567,
+      "state": "OPEN"
+    },
+    "aioztestnet_4102-1": {
+      "destiation channel": 16,
+      "source channel": 356,
+      "state": "OPEN"
+    },
+    "akashnet-2": {
+      "destiation channel": 0,
+      "source channel": 95,
+      "state": "OPEN"
+    },
+    "allora-mainnet-1": {
+      "destiation channel": 2,
+      "source channel": 1353,
+      "state": "OPEN"
+    },
+    "archway-1": {
+      "destiation channel": 0,
+      "source channel": 623,
+      "state": "OPEN"
+    },
+    "arkh": {
+      "destiation channel": 9,
+      "source channel": 253,
+      "state": "OPEN"
+    },
+    "axelar-dojo-1": {
+      "destiation channel": 2,
+      "source channel": 293,
+      "state": "OPEN"
+    },
+    "baby": {
+      "destiation channel": 0,
+      "source channel": 128,
+      "state": "OPEN"
+    },
+    "bbn-1": {
+      "destiation channel": 0,
+      "source channel": 1341,
+      "state": "OPEN"
+    },
+    "beezee-1": {
+      "destiation channel": 8,
+      "source channel": 1295,
+      "state": "OPEN"
+    },
+    "bitbadges-1": {
+      "destiation channel": 3,
+      "source channel": 1420,
+      "state": "OPEN"
+    },
+    "bitcanna-1": {
+      "destiation channel": 3,
+      "source channel": 232,
+      "state": "OPEN"
+    },
+    "bitsong-2b": {
+      "destiation channel": 35,
+      "source channel": 228,
+      "state": "OPEN"
+    },
+    "bitway-1": {
+      "destiation channel": 14,
+      "source channel": 1556,
+      "state": "OPEN"
+    },
+    "blockx_12345-1": {
+      "destiation channel": 0,
+      "source channel": 454,
+      "state": "OPEN"
+    },
+    "blockx_19191-1": {
+      "destiation channel": 1,
+      "source channel": 1402,
+      "state": "OPEN"
+    },
+    "bostrom": {
+      "destiation channel": 1,
+      "source channel": 225,
+      "state": "OPEN"
+    },
+    "campfire-square.ff09671d333707": {
+      "destiation channel": 8,
+      "source channel": 1298,
+      "state": "OPEN"
+    },
+    "canto_7700-1": {
+      "destiation channel": 1,
+      "source channel": 357,
+      "state": "OPEN"
+    },
+    "canto_7744-1": {
+      "destiation channel": 2,
+      "source channel": 347,
+      "state": "OPEN"
+    },
+    "carbon-1": {
+      "destiation channel": 3,
+      "source channel": 342,
+      "state": "OPEN"
+    },
+    "cashfeed": {
+      "destiation channel": 0,
+      "source channel": 328,
+      "state": "OPEN"
+    },
+    "centauri-1": {
+      "destiation channel": 4,
+      "source channel": 617,
+      "state": "OPEN"
+    },
+    "chain": {
+      "destiation channel": 0,
+      "source channel": 114,
+      "state": "OPEN"
+    },
+    "chain1": {
+      "destiation channel": 0,
+      "source channel": 421,
+      "state": "OPEN"
+    },
+    "checkers": {
+      "destiation channel": 0,
+      "source channel": 238,
+      "state": "OPEN"
+    },
+    "cheqd-mainnet-1": {
+      "destiation channel": 1,
+      "source channel": 239,
+      "state": "OPEN"
+    },
+    "chihuahua-1": {
+      "destiation channel": 14,
+      "source channel": 289,
+      "state": "OPEN"
+    },
+    "cifer-1": {
+      "destiation channel": 0,
+      "source channel": 821,
+      "state": "OPEN"
+    },
+    "cifer-2": {
+      "destiation channel": 0,
+      "source channel": 831,
+      "state": "OPEN"
+    },
+    "coindesk-testnet-1": {
+      "destiation channel": 0,
+      "source channel": 119,
+      "state": "OPEN"
+    },
+    "columbus-5": {
+      "destiation channel": 2,
+      "source channel": 219,
+      "state": "OPEN"
+    },
+    "comdex-1": {
+      "destiation channel": 29,
+      "source channel": 336,
+      "state": "OPEN"
+    },
+    "core": {
+      "destiation channel": 0,
+      "source channel": 246,
+      "state": "OPEN"
+    },
+    "core-1": {
+      "destiation channel": 0,
+      "source channel": 99,
+      "state": "OPEN"
+    },
+    "coreum-mainnet-1": {
+      "destiation channel": 4,
+      "source channel": 653,
+      "state": "OPEN"
+    },
+    "crescent-1": {
+      "destiation channel": 1,
+      "source channel": 326,
+      "state": "OPEN"
+    },
+    "cronosmainnet_25-1": {
+      "destiation channel": 1,
+      "source channel": 241,
+      "state": "OPEN"
+    },
+    "cronosmainnet_28-1": {
+      "destiation channel": 1,
+      "source channel": 221,
+      "state": "OPEN"
+    },
+    "crypto-org-chain-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 93,
+      "state": "OPEN"
+    },
+    "crypto-org-chain-mainnet-dryrun-1": {
+      "destiation channel": 0,
+      "source channel": 196,
+      "state": "OPEN"
+    },
+    "darchub": {
+      "destiation channel": 1,
+      "source channel": 304,
+      "state": "OPEN"
+    },
+    "denis-fadeev-chain": {
+      "destiation channel": 0,
+      "source channel": 1,
+      "state": "OPEN"
+    },
+    "desmos-mainnet": {
+      "destiation channel": 18,
+      "source channel": 581,
+      "state": "OPEN"
+    },
+    "devnet-1": {
+      "destiation channel": 0,
+      "source channel": 101,
+      "state": "OPEN"
+    },
+    "deweb-testnet-1": {
+      "destiation channel": 39,
+      "source channel": 373,
+      "state": "OPEN"
+    },
+    "diamond-1": {
+      "destiation channel": 0,
+      "source channel": 1250,
+      "state": "OPEN"
+    },
+    "dig": {
+      "destiation channel": 0,
+      "source channel": 135,
+      "state": "OPEN"
+    },
+    "dig-1": {
+      "destiation channel": 0,
+      "source channel": 243,
+      "state": "OPEN"
+    },
+    "dig-testnet-1": {
+      "destiation channel": 3,
+      "source channel": 181,
+      "state": "OPEN"
+    },
+    "dimension_37-1": {
+      "destiation channel": 6,
+      "source channel": 533,
+      "state": "OPEN"
+    },
+    "dragonnet": {
+      "destiation channel": 0,
+      "source channel": 245,
+      "state": "OPEN"
+    },
+    "dungeon-1": {
+      "destiation channel": 1,
+      "source channel": 1200,
+      "state": "OPEN"
+    },
+    "dymension_1100-1": {
+      "destiation channel": 1,
+      "source channel": 794,
+      "state": "OPEN"
+    },
+    "echelon_3000-3": {
+      "destiation channel": 0,
+      "source channel": 327,
+      "state": "OPEN"
+    },
+    "egchain-1": {
+      "destiation channel": 0,
+      "source channel": 89,
+      "state": "OPEN"
+    },
+    "egchain-2": {
+      "destiation channel": 0,
+      "source channel": 92,
+      "state": "OPEN"
+    },
+    "eightball-1": {
+      "destiation channel": 34,
+      "source channel": 571,
+      "state": "OPEN"
+    },
+    "elys-1": {
+      "destiation channel": 1,
+      "source channel": 1266,
+      "state": "OPEN"
+    },
+    "emoney-3": {
+      "destiation channel": 1,
+      "source channel": 202,
+      "state": "OPEN"
+    },
+    "empowerchain-1": {
+      "destiation channel": 0,
+      "source channel": 621,
+      "state": "OPEN"
+    },
+    "ethermint_9010-1": {
+      "destiation channel": 0,
+      "source channel": 439,
+      "state": "OPEN"
+    },
+    "evmos_9001-2": {
+      "destiation channel": 3,
+      "source channel": 292,
+      "state": "OPEN"
+    },
+    "exchain-100": {
+      "destiation channel": 0,
+      "source channel": 298,
+      "state": "OPEN"
+    },
+    "exchain-10001": {
+      "destiation channel": 0,
+      "source channel": 300,
+      "state": "OPEN"
+    },
+    "exchain-101": {
+      "destiation channel": 0,
+      "source channel": 296,
+      "state": "OPEN"
+    },
+    "exchain-65": {
+      "destiation channel": 24,
+      "source channel": 360,
+      "state": "OPEN"
+    },
+    "exchain-66": {
+      "destiation channel": 0,
+      "source channel": 361,
+      "state": "OPEN"
+    },
+    "fetchhub-3": {
+      "destiation channel": 2,
+      "source channel": 282,
+      "state": "OPEN"
+    },
+    "fetchhub-4": {
+      "destiation channel": 11,
+      "source channel": 324,
+      "state": "OPEN"
+    },
+    "flash-test-1": {
+      "destiation channel": 1,
+      "source channel": 796,
+      "state": "OPEN"
+    },
+    "furya-1": {
+      "destiation channel": 5,
+      "source channel": 747,
+      "state": "OPEN"
+    },
+    "fxcore": {
+      "destiation channel": 10,
+      "source channel": 585,
+      "state": "OPEN"
+    },
+    "gaia-photon": {
+      "destiation channel": 0,
+      "source channel": 66,
+      "state": "OPEN"
+    },
+    "galaxy-1": {
+      "destiation channel": 1,
+      "source channel": 368,
+      "state": "OPEN"
+    },
+    "gravity-bridge-3": {
+      "destiation channel": 17,
+      "source channel": 281,
+      "state": "OPEN"
+    },
+    "h3liax": {
+      "destiation channel": 0,
+      "source channel": 142,
+      "state": "OPEN"
+    },
+    "hackatom-ru": {
+      "destiation channel": 3,
+      "source channel": 37,
+      "state": "OPEN"
+    },
+    "haqq_11235-1": {
+      "destiation channel": 3,
+      "source channel": 632,
+      "state": "OPEN"
+    },
+    "hello": {
+      "destiation channel": 0,
+      "source channel": 279,
+      "state": "OPEN"
+    },
+    "highlanderchaintest": {
+      "destiation channel": 0,
+      "source channel": 154,
+      "state": "TRYOPEN"
+    },
+    "housefire-alpaca.cc0d3e0c033be": {
+      "destiation channel": 1,
+      "source channel": 1297,
+      "state": "OPEN"
+    },
+    "housefire-reduce.e51ecf4264fc3": {
+      "destiation channel": 1,
+      "source channel": 1180,
+      "state": "OPEN"
+    },
+    "humans_1089-1": {
+      "destiation channel": 2,
+      "source channel": 788,
+      "state": "OPEN"
+    },
+    "ibc-0": {
+      "destiation channel": 0,
+      "source channel": 30,
+      "state": "OPEN"
+    },
+    "ibc-1": {
+      "destiation channel": 1,
+      "source channel": 90,
+      "state": "OPEN"
+    },
+    "ibc0": {
+      "destiation channel": 1,
+      "source channel": 115,
+      "state": "OPEN"
+    },
+    "ibccccu-1": {
+      "destiation channel": 0,
+      "source channel": 94,
+      "state": "OPEN"
+    },
+    "ibcdemo": {
+      "destiation channel": 0,
+      "source channel": 105,
+      "state": "OPEN"
+    },
+    "ibcdemo2": {
+      "destiation channel": 0,
+      "source channel": 106,
+      "state": "OPEN"
+    },
+    "ibctest": {
+      "destiation channel": 0,
+      "source channel": 24,
+      "state": "OPEN"
+    },
+    "ibctransfer": {
+      "destiation channel": 0,
+      "source channel": 286,
+      "state": "OPEN"
+    },
+    "impacthub-3": {
+      "destiation channel": 18,
+      "source channel": 401,
+      "state": "OPEN"
+    },
+    "informal-testnet-1": {
+      "destiation channel": 0,
+      "source channel": 124,
+      "state": "OPEN"
+    },
+    "injective-1": {
+      "destiation channel": 0,
+      "source channel": 211,
+      "state": "OPEN"
+    },
+    "intento-1": {
+      "destiation channel": 2,
+      "source channel": 1490,
+      "state": "OPEN"
+    },
+    "internal-devnet-45a.1881abcfec": {
+      "destiation channel": 1,
+      "source channel": 1255,
+      "state": "OPEN"
+    },
+    "internal-devnet-46a.a4776ee846": {
+      "destiation channel": 0,
+      "source channel": 1256,
+      "state": "OPEN"
+    },
+    "internal-devnet-46b.6ba69cee15": {
+      "destiation channel": 1,
+      "source channel": 1267,
+      "state": "OPEN"
+    },
+    "iov-mainnet-ibc": {
+      "destiation channel": 0,
+      "source channel": 158,
+      "state": "OPEN"
+    },
+    "ixo-5": {
+      "destiation channel": 1,
+      "source channel": 204,
+      "state": "OPEN"
+    },
+    "jackal-1": {
+      "destiation channel": 19,
+      "source channel": 582,
+      "state": "OPEN"
+    },
+    "joe-1": {
+      "destiation channel": 0,
+      "source channel": 445,
+      "state": "OPEN"
+    },
+    "joltify-01": {
+      "destiation channel": 1,
+      "source channel": 317,
+      "state": "OPEN"
+    },
+    "joltify_1729-1": {
+      "destiation channel": 0,
+      "source channel": 864,
+      "state": "OPEN"
+    },
+    "joltifydev_1730-1": {
+      "destiation channel": 5,
+      "source channel": 833,
+      "state": "OPEN"
+    },
+    "juno-1": {
+      "destiation channel": 1,
+      "source channel": 207,
+      "state": "OPEN"
+    },
+    "kaiyo-1": {
+      "destiation channel": 0,
+      "source channel": 343,
+      "state": "OPEN"
+    },
+    "kava_2221-16000": {
+      "destiation channel": 2,
+      "source channel": 423,
+      "state": "TRYOPEN"
+    },
+    "kava_2222-10": {
+      "destiation channel": 0,
+      "source channel": 277,
+      "state": "OPEN"
+    },
+    "kichain-2": {
+      "destiation channel": 1,
+      "source channel": 223,
+      "state": "OPEN"
+    },
+    "laozi-mainnet": {
+      "destiation channel": 8,
+      "source channel": 230,
+      "state": "OPEN"
+    },
+    "lava-mainnet-1": {
+      "destiation channel": 6,
+      "source channel": 969,
+      "state": "OPEN"
+    },
+    "ledger-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 1340,
+      "state": "OPEN"
+    },
+    "lfg-1": {
+      "destiation channel": 0,
+      "source channel": 706,
+      "state": "OPEN"
+    },
+    "likecoin-mainnet-2": {
+      "destiation channel": 5,
+      "source channel": 217,
+      "state": "OPEN"
+    },
+    "likecoin-public-testnet-3": {
+      "destiation channel": 0,
+      "source channel": 200,
+      "state": "OPEN"
+    },
+    "local-test-1": {
+      "destiation channel": 0,
+      "source channel": 382,
+      "state": "OPEN"
+    },
+    "local-test-1002": {
+      "destiation channel": 0,
+      "source channel": 525,
+      "state": "OPEN"
+    },
+    "local-test-120": {
+      "destiation channel": 0,
+      "source channel": 495,
+      "state": "OPEN"
+    },
+    "local-test-121": {
+      "destiation channel": 0,
+      "source channel": 496,
+      "state": "OPEN"
+    },
+    "local-test-122": {
+      "destiation channel": 0,
+      "source channel": 497,
+      "state": "OPEN"
+    },
+    "local-test-20": {
+      "destiation channel": 0,
+      "source channel": 494,
+      "state": "OPEN"
+    },
+    "localnet-1": {
+      "destiation channel": 0,
+      "source channel": 125,
+      "state": "OPEN"
+    },
+    "lotus": {
+      "destiation channel": 0,
+      "source channel": 153,
+      "state": "OPEN"
+    },
+    "lum-network-1": {
+      "destiation channel": 12,
+      "source channel": 566,
+      "state": "OPEN"
+    },
+    "luwak-1": {
+      "destiation channel": 7,
+      "source channel": 1253,
+      "state": "OPEN"
+    },
+    "manifest-ledger-mainnet": {
+      "destiation channel": 2,
+      "source channel": 1401,
+      "state": "OPEN"
+    },
+    "mantle-1": {
+      "destiation channel": 28,
+      "source channel": 574,
+      "state": "OPEN"
+    },
+    "mantra-1": {
+      "destiation channel": 3,
+      "source channel": 1252,
+      "state": "OPEN"
+    },
+    "mars": {
+      "destiation channel": 1,
+      "source channel": 15,
+      "state": "OPEN"
+    },
+    "mars-1": {
+      "destiation channel": 15,
+      "source channel": 579,
+      "state": "OPEN"
+    },
+    "mars3": {
+      "destiation channel": 0,
+      "source channel": 26,
+      "state": "OPEN"
+    },
+    "meep-1": {
+      "destiation channel": 0,
+      "source channel": 149,
+      "state": "OPEN"
+    },
+    "microtick-1": {
+      "destiation channel": 6,
+      "source channel": 201,
+      "state": "OPEN"
+    },
+    "mooncat-1-1": {
+      "destiation channel": 10,
+      "source channel": 378,
+      "state": "OPEN"
+    },
+    "moonshiner": {
+      "destiation channel": 0,
+      "source channel": 96,
+      "state": "OPEN"
+    },
+    "moonshiner2": {
+      "destiation channel": 0,
+      "source channel": 98,
+      "state": "OPEN"
+    },
+    "moonshiner3": {
+      "destiation channel": 0,
+      "source channel": 140,
+      "state": "OPEN"
+    },
+    "mot": {
+      "destiation channel": 0,
+      "source channel": 160,
+      "state": "OPEN"
+    },
+    "mun-1": {
+      "destiation channel": 0,
+      "source channel": 641,
+      "state": "OPEN"
+    },
+    "musselnet-4": {
+      "destiation channel": 8,
+      "source channel": 88,
+      "state": "OPEN"
+    },
+    "myblockchain": {
+      "destiation channel": 0,
+      "source channel": 147,
+      "state": "OPEN"
+    },
+    "namada-test.140c31d0981ee67957": {
+      "destiation channel": 0,
+      "source channel": 1359,
+      "state": "OPEN"
+    },
+    "namada.5f5de2dd1b88cba30586420": {
+      "destiation channel": 2,
+      "source channel": 1317,
+      "state": "OPEN"
+    },
+    "neutron-1": {
+      "destiation channel": 1,
+      "source channel": 569,
+      "state": "OPEN"
+    },
+    "nillion-1": {
+      "destiation channel": 1,
+      "source channel": 1316,
+      "state": "OPEN"
+    },
+    "noble-1": {
+      "destiation channel": 4,
+      "source channel": 536,
+      "state": "OPEN"
+    },
+    "nom-internal-0": {
+      "destiation channel": 2,
+      "source channel": 363,
+      "state": "OPEN"
+    },
+    "nomic-ibc-internal-0": {
+      "destiation channel": 1,
+      "source channel": 359,
+      "state": "OPEN"
+    },
+    "nyancat-8": {
+      "destiation channel": 0,
+      "source channel": 77,
+      "state": "OPEN"
+    },
+    "odin-mainnet-freya": {
+      "destiation channel": 38,
+      "source channel": 580,
+      "state": "OPEN"
+    },
+    "omniflix-test-2": {
+      "destiation channel": 1,
+      "source channel": 157,
+      "state": "OPEN"
+    },
+    "omniflixhub-1": {
+      "destiation channel": 0,
+      "source channel": 290,
+      "state": "OPEN"
+    },
+    "onomy-mainnet-1": {
+      "destiation channel": 1,
+      "source channel": 492,
+      "state": "OPEN"
+    },
+    "oppyChain-1": {
+      "destiation channel": 0,
+      "source channel": 362,
+      "state": "OPEN"
+    },
+    "osmosis-v6patch": {
+      "destiation channel": 1,
+      "source channel": 244,
+      "state": "OPEN"
+    },
+    "outlier-ventures-demo": {
+      "destiation channel": 0,
+      "source channel": 108,
+      "state": "OPEN"
+    },
+    "outliner-ventures-demo": {
+      "destiation channel": 0,
+      "source channel": 117,
+      "state": "OPEN"
+    },
+    "ovg": {
+      "destiation channel": 0,
+      "source channel": 817,
+      "state": "OPEN"
+    },
+    "pacific-1": {
+      "destiation channel": 1,
+      "source channel": 584,
+      "state": "OPEN"
+    },
+    "pandora-3": {
+      "destiation channel": 0,
+      "source channel": 191,
+      "state": "OPEN"
+    },
+    "paxi-mainnet": {
+      "destiation channel": 1,
+      "source channel": 1566,
+      "state": "OPEN"
+    },
+    "penumbra-1": {
+      "destiation channel": 0,
+      "source channel": 940,
+      "state": "OPEN"
+    },
+    "penumbra-testnet-eurydome-12c01b5f": {
+      "destiation channel": 0,
+      "source channel": 350,
+      "state": "TRYOPEN"
+    },
+    "penumbra-testnet-eurydome-2ce1ab55": {
+      "destiation channel": null,
+      "source channel": 349,
+      "state": "INIT"
+    },
+    "phoenix-1": {
+      "destiation channel": 0,
+      "source channel": 339,
+      "state": "OPEN"
+    },
+    "pio-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 127,
+      "state": "OPEN"
+    },
+    "planet": {
+      "destiation channel": 0,
+      "source channel": 60,
+      "state": "OPEN"
+    },
+    "planq_7070-2": {
+      "destiation channel": 2,
+      "source channel": 446,
+      "state": "OPEN"
+    },
+    "point_10687-1": {
+      "destiation channel": 0,
+      "source channel": 404,
+      "state": "OPEN"
+    },
+    "pryzm-1": {
+      "destiation channel": 0,
+      "source channel": 859,
+      "state": "OPEN"
+    },
+    "public-testnet-15.0dacadb8d663": {
+      "destiation channel": 5,
+      "source channel": 766,
+      "state": "OPEN"
+    },
+    "quasar-1": {
+      "destiation channel": 0,
+      "source channel": 534,
+      "state": "OPEN"
+    },
+    "quicksilver-1": {
+      "destiation channel": 2,
+      "source channel": 460,
+      "state": "OPEN"
+    },
+    "quicksilver-2": {
+      "destiation channel": 1,
+      "source channel": 467,
+      "state": "OPEN"
+    },
+    "realionetwork_3301-1": {
+      "destiation channel": 2,
+      "source channel": 645,
+      "state": "OPEN"
+    },
+    "regen-1": {
+      "destiation channel": 0,
+      "source channel": 139,
+      "state": "OPEN"
+    },
+    "router-1": {
+      "destiation channel": 0,
+      "source channel": 532,
+      "state": "OPEN"
+    },
+    "secret-4": {
+      "destiation channel": 0,
+      "source channel": 235,
+      "state": "OPEN"
+    },
+    "seda-1": {
+      "destiation channel": 1,
+      "source channel": 1337,
+      "state": "OPEN"
+    },
+    "self-1": {
+      "destiation channel": 0,
+      "source channel": 892,
+      "state": "OPEN"
+    },
+    "sentinelhub-2": {
+      "destiation channel": 2,
+      "source channel": 162,
+      "state": "OPEN"
+    },
+    "shentu-2.2": {
+      "destiation channel": 10,
+      "source channel": 308,
+      "state": "OPEN"
+    },
+    "sidechain-1": {
+      "destiation channel": 2,
+      "source channel": 1318,
+      "state": "OPEN"
+    },
+    "sifchain-1": {
+      "destiation channel": 0,
+      "source channel": 192,
+      "state": "OPEN"
+    },
+    "sifchain-ibctestnet": {
+      "destiation channel": 0,
+      "source channel": 102,
+      "state": "OPEN"
+    },
+    "sifchain-testnet-1": {
+      "destiation channel": 10,
+      "source channel": 269,
+      "state": "OPEN"
+    },
+    "spchain_19000-1": {
+      "destiation channel": 0,
+      "source channel": 675,
+      "state": "OPEN"
+    },
+    "spn": {
+      "destiation channel": 3,
+      "source channel": 35,
+      "state": "OPEN"
+    },
+    "spn-1": {
+      "destiation channel": 0,
+      "source channel": 332,
+      "state": "OPEN"
+    },
+    "sprelayers": {
+      "destiation channel": 0,
+      "source channel": 38,
+      "state": "OPEN"
+    },
+    "stafihub-1": {
+      "destiation channel": 0,
+      "source channel": 369,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-3": {
+      "destiation channel": 3,
+      "source channel": 1358,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-4": {
+      "destiation channel": 0,
+      "source channel": 1366,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-7": {
+      "destiation channel": 0,
+      "source channel": 1368,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-8": {
+      "destiation channel": 0,
+      "source channel": 1390,
+      "state": "OPEN"
+    },
+    "stargatenet": {
+      "destiation channel": 1,
+      "source channel": 130,
+      "state": "OPEN"
+    },
+    "stargaze-1": {
+      "destiation channel": 19,
+      "source channel": 285,
+      "state": "OPEN"
+    },
+    "stateset": {
+      "destiation channel": 0,
+      "source channel": 254,
+      "state": "OPEN"
+    },
+    "stayking-hub": {
+      "destiation channel": 0,
+      "source channel": 503,
+      "state": "OPEN"
+    },
+    "stride-1": {
+      "destiation channel": 0,
+      "source channel": 391,
+      "state": "OPEN"
+    },
+    "sunrise-1": {
+      "destiation channel": 1,
+      "source channel": 1421,
+      "state": "OPEN"
+    },
+    "swap-testnet-2005": {
+      "destiation channel": 0,
+      "source channel": 100,
+      "state": "OPEN"
+    },
+    "taxblock-1": {
+      "destiation channel": 0,
+      "source channel": 459,
+      "state": "OPEN"
+    },
+    "teritori-1": {
+      "destiation channel": 10,
+      "source channel": 431,
+      "state": "OPEN"
+    },
+    "testing": {
+      "destiation channel": 1,
+      "source channel": 212,
+      "state": "OPEN"
+    },
+    "testmun": {
+      "destiation channel": 0,
+      "source channel": 406,
+      "state": "OPEN"
+    },
+    "testmun-3": {
+      "destiation channel": 12,
+      "source channel": 575,
+      "state": "OPEN"
+    },
+    "testmun-ica": {
+      "destiation channel": 0,
+      "source channel": 414,
+      "state": "OPEN"
+    },
+    "testnet-234": {
+      "destiation channel": null,
+      "source channel": 323,
+      "state": "INIT"
+    },
+    "testnet_2-1": {
+      "destiation channel": 0,
+      "source channel": 231,
+      "state": "OPEN"
+    },
+    "theta-testnet-001": {
+      "destiation channel": 273,
+      "source channel": 311,
+      "state": "OPEN"
+    },
+    "titan-1": {
+      "destiation channel": 0,
+      "source channel": 313,
+      "state": "OPEN"
+    },
+    "umee-1": {
+      "destiation channel": 1,
+      "source channel": 288,
+      "state": "OPEN"
+    },
+    "ununifi-beta-v1": {
+      "destiation channel": 0,
+      "source channel": 614,
+      "state": "OPEN"
+    },
+    "uptick_117-1": {
+      "destiation channel": 1,
+      "source channel": 535,
+      "state": "OPEN"
+    },
+    "vota-ash": {
+      "destiation channel": 4,
+      "source channel": 750,
+      "state": "OPEN"
+    },
+    "world": {
+      "destiation channel": 0,
+      "source channel": 9,
+      "state": "OPEN"
+    },
+    "xarchain": {
+      "destiation channel": 0,
+      "source channel": 1400,
+      "state": "OPEN"
+    },
+    "xardev": {
+      "destiation channel": 2,
+      "source channel": 1370,
+      "state": "OPEN"
+    },
+    "xrplevm_1440000-1": {
+      "destiation channel": 2,
+      "source channel": 1377,
+      "state": "OPEN"
+    },
+    "xstaxy-1": {
+      "destiation channel": 6,
+      "source channel": 646,
+      "state": "OPEN"
+    },
+    "yet-another-chain": {
+      "destiation channel": 0,
+      "source channel": 8,
+      "state": "OPEN"
+    },
+    "zigchain-1": {
+      "destiation channel": 4,
+      "source channel": 1555,
+      "state": "OPEN"
+    }
+  },
+  "IRIS": {
+    "ATOM": {
+      "destiation channel": 91,
+      "source channel": 0,
+      "state": "OPEN"
+    },
+    "OSMO": {
+      "destiation channel": 6,
+      "source channel": 3,
+      "state": "OPEN"
+    },
+    "agoric-3": {
+      "destiation channel": 30,
+      "source channel": 43,
+      "state": "OPEN"
+    },
+    "akashnet-2": {
+      "destiation channel": 11,
+      "source channel": 9,
+      "state": "OPEN"
+    },
+    "arkh": {
+      "destiation channel": 35,
+      "source channel": 44,
+      "state": "OPEN"
+    },
+    "axelar-dojo-1": {
+      "destiation channel": 88,
+      "source channel": 46,
+      "state": "OPEN"
+    },
+    "bitsong-2b": {
+      "destiation channel": 21,
+      "source channel": 47,
+      "state": "OPEN"
+    },
+    "bostrom": {
+      "destiation channel": 43,
+      "source channel": 50,
+      "state": "OPEN"
+    },
+    "carbon-1": {
+      "destiation channel": 28,
+      "source channel": 68,
+      "state": "OPEN"
+    },
+    "cheqd-mainnet-1": {
+      "destiation channel": 18,
+      "source channel": 48,
+      "state": "OPEN"
+    },
+    "chihuahua-1": {
+      "destiation channel": 60,
+      "source channel": 52,
+      "state": "OPEN"
+    },
+    "columbus-5": {
+      "destiation channel": 78,
+      "source channel": 63,
+      "state": "OPEN"
+    },
+    "comdex-1": {
+      "destiation channel": 9,
+      "source channel": 27,
+      "state": "OPEN"
+    },
+    "core-1": {
+      "destiation channel": 8,
+      "source channel": 5,
+      "state": "OPEN"
+    },
+    "crescent-1": {
+      "destiation channel": 37,
+      "source channel": 37,
+      "state": "OPEN"
+    },
+    "cronosmainnet_25-1": {
+      "destiation channel": 8,
+      "source channel": 66,
+      "state": "OPEN"
+    },
+    "crypto-org-chain-mainnet-1": {
+      "destiation channel": 16,
+      "source channel": 10,
+      "state": "OPEN"
+    },
+    "desmos-mainnet": {
+      "destiation channel": 25,
+      "source channel": 51,
+      "state": "OPEN"
+    },
+    "eightball-1": {
+      "destiation channel": 43,
+      "source channel": 42,
+      "state": "OPEN"
+    },
+    "emoney-3": {
+      "destiation channel": 2,
+      "source channel": 23,
+      "state": "OPEN"
+    },
+    "gravity-bridge-3": {
+      "destiation channel": 47,
+      "source channel": 29,
+      "state": "OPEN"
+    },
+    "impacthub-3": {
+      "destiation channel": 3,
+      "source channel": 24,
+      "state": "OPEN"
+    },
+    "injective-1": {
+      "destiation channel": 131,
+      "source channel": 49,
+      "state": "OPEN"
+    },
+    "iov-mainnet-ibc": {
+      "destiation channel": 10,
+      "source channel": 20,
+      "state": "OPEN"
+    },
+    "jackal-1": {
+      "destiation channel": 17,
+      "source channel": 53,
+      "state": "OPEN"
+    },
+    "juno-1": {
+      "destiation channel": 257,
+      "source channel": 54,
+      "state": "OPEN"
+    },
+    "kaiyo-1": {
+      "destiation channel": 83,
+      "source channel": 56,
+      "state": "OPEN"
+    },
+    "kava_2222-10": {
+      "destiation channel": 97,
+      "source channel": 55,
+      "state": "OPEN"
+    },
+    "mantle-1": {
+      "destiation channel": 34,
+      "source channel": 45,
+      "state": "OPEN"
+    },
+    "mars-1": {
+      "destiation channel": 18,
+      "source channel": 57,
+      "state": "OPEN"
+    },
+    "microtick-1": {
+      "destiation channel": 8,
+      "source channel": 22,
+      "state": "OPEN"
+    },
+    "odin-mainnet-freya": {
+      "destiation channel": 40,
+      "source channel": 58,
+      "state": "OPEN"
+    },
+    "phoenix-1": {
+      "destiation channel": 112,
+      "source channel": 40,
+      "state": "OPEN"
+    },
+    "planq_7070-2": {
+      "destiation channel": 30,
+      "source channel": 36,
+      "state": "OPEN"
+    },
+    "regen-1": {
+      "destiation channel": 3,
+      "source channel": 7,
+      "state": "OPEN"
+    },
+    "sentinelhub-2": {
+      "destiation channel": 3,
+      "source channel": 6,
+      "state": "OPEN"
+    },
+    "shentu-2.2": {
+      "destiation channel": 4,
+      "source channel": 28,
+      "state": "OPEN"
+    },
+    "sifchain-1": {
+      "destiation channel": 6,
+      "source channel": 18,
+      "state": "OPEN"
+    },
+    "sommelier-3": {
+      "destiation channel": 19,
+      "source channel": 60,
+      "state": "OPEN"
+    },
+    "stafihub-1": {
+      "destiation channel": 3,
+      "source channel": 33,
+      "state": "OPEN"
+    },
+    "stargaze-1": {
+      "destiation channel": 158,
+      "source channel": 61,
+      "state": "OPEN"
+    },
+    "stride-1": {
+      "destiation channel": 101,
+      "source channel": 62,
+      "state": "OPEN"
+    },
+    "umee-1": {
+      "destiation channel": 84,
+      "source channel": 64,
+      "state": "OPEN"
+    },
+    "uptick_117-1": {
+      "destiation channel": 0,
+      "source channel": 38,
+      "state": "OPEN"
+    }
+  },
+  "IRISTEST": {
+    "NUCLEUSTEST": {
+      "destiation channel": 0,
+      "source channel": 151,
+      "state": "OPEN"
+    },
+    "banksy-testnet-5": {
+      "destiation channel": 51,
+      "source channel": 155,
+      "state": "OPEN"
+    },
+    "cosmos-local": {
+      "destiation channel": 2,
+      "source channel": 47,
+      "state": "OPEN"
+    },
+    "cosmoshub": {
+      "destiation channel": 0,
+      "source channel": 54,
+      "state": "OPEN"
+    },
+    "exchain-100": {
+      "destiation channel": 0,
+      "source channel": 42,
+      "state": "OPEN"
+    },
+    "exchain-64": {
+      "destiation channel": 1,
+      "source channel": 51,
+      "state": "OPEN"
+    },
+    "exchain-65": {
+      "destiation channel": 3,
+      "source channel": 44,
+      "state": "OPEN"
+    },
+    "irishub-ibc": {
+      "destiation channel": 0,
+      "source channel": 36,
+      "state": "OPEN"
+    },
+    "merakichain": {
+      "destiation channel": 0,
+      "source channel": 14,
+      "state": "OPEN"
+    },
+    "nucleus-testnet-1": {
+      "destiation channel": 0,
+      "source channel": 86,
+      "state": "OPEN"
+    },
+    "nucleus-testnet-2": {
+      "destiation channel": 0,
+      "source channel": 92,
+      "state": "OPEN"
+    },
+    "origin_1170-1": {
+      "destiation channel": 3,
+      "source channel": 93,
+      "state": "OPEN"
+    },
+    "origin_1170-2": {
+      "destiation channel": 0,
+      "source channel": 107,
+      "state": "OPEN"
+    },
+    "origin_1170-3": {
+      "destiation channel": 0,
+      "source channel": 133,
+      "state": "OPEN"
+    },
+    "sandynet-1": {
+      "destiation channel": 1,
+      "source channel": 7,
+      "state": "OPEN"
+    },
+    "sifchain-devnet-1": {
+      "destiation channel": 1,
+      "source channel": 6,
+      "state": "OPEN"
+    },
+    "sifchain-testnet-1": {
+      "destiation channel": 8,
+      "source channel": 4,
+      "state": "OPEN"
+    },
+    "stargate-final": {
+      "destiation channel": 1,
+      "source channel": 0,
+      "state": "OPEN"
+    },
+    "test-1": {
+      "destiation channel": 5,
+      "source channel": 15,
+      "state": "OPEN"
+    },
+    "testnet-croeseid-4": {
+      "destiation channel": 196,
+      "source channel": 25,
+      "state": "OPEN"
+    },
+    "uptick_7000-1": {
+      "destiation channel": 0,
+      "source channel": 68,
+      "state": "OPEN"
+    },
+    "uptick_7000-2": {
+      "destiation channel": 0,
+      "source channel": 80,
+      "state": "OPEN"
+    },
+    "uptick_7002-1": {
+      "destiation channel": 0,
+      "source channel": 94,
+      "state": "OPEN"
+    },
+    "uptick_7776-1": {
+      "destiation channel": 4,
+      "source channel": 50,
+      "state": "OPEN"
+    },
+    "uptick_7777-1": {
+      "destiation channel": 1,
+      "source channel": 67,
+      "state": "OPEN"
+    },
+    "uptick_9000-1": {
+      "destiation channel": 0,
+      "source channel": 72,
+      "state": "OPEN"
+    }
+  },
+  "NUCLEUSTEST": {
+    "ATOM": {
+      "destiation channel": 842,
+      "source channel": 2,
+      "state": "OPEN"
+    },
+    "IRISTEST": {
+      "destiation channel": 151,
+      "source channel": 0,
+      "state": "OPEN"
+    },
+    "OSMO": {
+      "destiation channel": 74153,
+      "source channel": 3,
+      "state": "OPEN"
+    }
+  },
+  "OSMO": {
+    "42000": {
+      "destiation channel": 0,
+      "source channel": 102380,
+      "state": "OPEN"
+    },
+    "ATOM": {
+      "destiation channel": 141,
+      "source channel": 0,
+      "state": "OPEN"
+    },
+    "FUND-MainNet-2": {
+      "destiation channel": 0,
+      "source channel": 382,
+      "state": "OPEN"
+    },
+    "IRIS": {
+      "destiation channel": 3,
+      "source channel": 6,
+      "state": "OPEN"
+    },
+    "LumenX": {
+      "destiation channel": 0,
+      "source channel": 278,
+      "state": "OPEN"
+    },
+    "NUCLEUSTEST": {
+      "destiation channel": 3,
+      "source channel": 74153,
+      "state": "OPEN"
+    },
+    "Neutaro-1": {
+      "destiation channel": 4,
+      "source channel": 79092,
+      "state": "OPEN"
+    },
+    "Oraichain": {
+      "destiation channel": 0,
+      "source channel": 200,
+      "state": "OPEN"
+    },
+    "Oraichain-testnet": {
+      "destiation channel": 3,
+      "source channel": 202,
+      "state": "OPEN"
+    },
+    "PUNDIX": {
+      "destiation channel": 1,
+      "source channel": 12618,
+      "state": "OPEN"
+    },
+    "STRIDE": {
+      "destiation channel": 0,
+      "source channel": 279,
+      "state": "OPEN"
+    },
+    "ShareRing-VoyagerNet": {
+      "destiation channel": 0,
+      "source channel": 647,
+      "state": "OPEN"
+    },
+    "aaronetwork": {
+      "destiation channel": 0,
+      "source channel": 90536,
+      "state": "OPEN"
+    },
+    "acre_9052-1": {
+      "destiation channel": 0,
+      "source channel": 490,
+      "state": "OPEN"
+    },
+    "agoric-3": {
+      "destiation channel": 1,
+      "source channel": 320,
+      "state": "OPEN"
+    },
+    "agoric-emerynet-5": {
+      "destiation channel": 4,
+      "source channel": 318,
+      "state": "OPEN"
+    },
+    "aioz_168-1": {
+      "destiation channel": 1,
+      "source channel": 779,
+      "state": "OPEN"
+    },
+    "aioztestnet_4102-1": {
+      "destiation channel": 4,
+      "source channel": 264,
+      "state": "OPEN"
+    },
+    "akashnet-2": {
+      "destiation channel": 9,
+      "source channel": 1,
+      "state": "OPEN"
+    },
+    "akiro-1": {
+      "destiation channel": 0,
+      "source channel": 27458,
+      "state": "OPEN"
+    },
+    "andromeda-1": {
+      "destiation channel": 17,
+      "source channel": 81924,
+      "state": "OPEN"
+    },
+    "archway-1": {
+      "destiation channel": 1,
+      "source channel": 1429,
+      "state": "OPEN"
+    },
+    "arkeo-main-v1": {
+      "destiation channel": 0,
+      "source channel": 102545,
+      "state": "OPEN"
+    },
+    "arkh": {
+      "destiation channel": 8,
+      "source channel": 120,
+      "state": "OPEN"
+    },
+    "astria": {
+      "destiation channel": 2,
+      "source channel": 85486,
+      "state": "OPEN"
+    },
+    "atomone-1": {
+      "destiation channel": 0,
+      "source channel": 85309,
+      "state": "OPEN"
+    },
+    "axelar-dojo-1": {
+      "destiation channel": 3,
+      "source channel": 208,
+      "state": "OPEN"
+    },
+    "axelar-testnet-lisbon-3": {
+      "destiation channel": 1,
+      "source channel": 198,
+      "state": "OPEN"
+    },
+    "bbn-1": {
+      "destiation channel": 3,
+      "source channel": 101635,
+      "state": "OPEN"
+    },
+    "beezee-1": {
+      "destiation channel": 0,
+      "source channel": 340,
+      "state": "OPEN"
+    },
+    "bigbang-test-2": {
+      "destiation channel": 0,
+      "source channel": 121,
+      "state": "OPEN"
+    },
+    "bigbang-test-3": {
+      "destiation channel": 1,
+      "source channel": 170,
+      "state": "OPEN"
+    },
+    "bitbadges-1": {
+      "destiation channel": 0,
+      "source channel": 104311,
+      "state": "OPEN"
+    },
+    "bitcanna-1": {
+      "destiation channel": 0,
+      "source channel": 41,
+      "state": "OPEN"
+    },
+    "bitsong-2b": {
+      "destiation channel": 0,
+      "source channel": 73,
+      "state": "OPEN"
+    },
+    "blockx_19191-1": {
+      "destiation channel": 2,
+      "source channel": 104840,
+      "state": "OPEN"
+    },
+    "bluzelle-8": {
+      "destiation channel": 0,
+      "source channel": 545,
+      "state": "OPEN"
+    },
+    "bluzelle-9": {
+      "destiation channel": 0,
+      "source channel": 763,
+      "state": "OPEN"
+    },
+    "bombay-12": {
+      "destiation channel": 2,
+      "source channel": 48,
+      "state": "OPEN"
+    },
+    "bostrom": {
+      "destiation channel": 0,
+      "source channel": 79,
+      "state": "OPEN"
+    },
+    "campfire-square.ff09671d333707": {
+      "destiation channel": 0,
+      "source channel": 92054,
+      "state": "OPEN"
+    },
+    "canto_7700-1": {
+      "destiation channel": 5,
+      "source channel": 550,
+      "state": "OPEN"
+    },
+    "capricorn-1": {
+      "destiation channel": 0,
+      "source channel": 119,
+      "state": "OPEN"
+    },
+    "carbon-1": {
+      "destiation channel": 0,
+      "source channel": 188,
+      "state": "OPEN"
+    },
+    "cataclysm-1": {
+      "destiation channel": 0,
+      "source channel": 21113,
+      "state": "OPEN"
+    },
+    "catena_2121-1": {
+      "destiation channel": 0,
+      "source channel": 775,
+      "state": "OPEN"
+    },
+    "celestia": {
+      "destiation channel": 2,
+      "source channel": 6994,
+      "state": "OPEN"
+    },
+    "centauri-1": {
+      "destiation channel": 3,
+      "source channel": 1279,
+      "state": "OPEN"
+    },
+    "cerberus-chain-1": {
+      "destiation channel": 1,
+      "source channel": 212,
+      "state": "OPEN"
+    },
+    "cheqd-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 108,
+      "state": "OPEN"
+    },
+    "chihuahua-1": {
+      "destiation channel": 7,
+      "source channel": 113,
+      "state": "OPEN"
+    },
+    "cifer-1": {
+      "destiation channel": 2,
+      "source channel": 35741,
+      "state": "OPEN"
+    },
+    "cifer-2": {
+      "destiation channel": 0,
+      "source channel": 39057,
+      "state": "OPEN"
+    },
+    "colosseum-1": {
+      "destiation channel": 1,
+      "source channel": 79241,
+      "state": "OPEN"
+    },
+    "columbus-5": {
+      "destiation channel": 1,
+      "source channel": 72,
+      "state": "OPEN"
+    },
+    "comdex-1": {
+      "destiation channel": 1,
+      "source channel": 87,
+      "state": "OPEN"
+    },
+    "commercio-3": {
+      "destiation channel": 0,
+      "source channel": 360,
+      "state": "OPEN"
+    },
+    "core-1": {
+      "destiation channel": 6,
+      "source channel": 4,
+      "state": "OPEN"
+    },
+    "coreum-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 2169,
+      "state": "OPEN"
+    },
+    "craft": {
+      "destiation channel": 0,
+      "source channel": 71,
+      "state": "OPEN"
+    },
+    "crescent-1": {
+      "destiation channel": 9,
+      "source channel": 297,
+      "state": "OPEN"
+    },
+    "cronosmainnet_25-1": {
+      "destiation channel": 7,
+      "source channel": 761,
+      "state": "OPEN"
+    },
+    "crypto-org-chain-mainnet-1": {
+      "destiation channel": 10,
+      "source channel": 5,
+      "state": "OPEN"
+    },
+    "cudos-1": {
+      "destiation channel": 0,
+      "source channel": 276,
+      "state": "OPEN"
+    },
+    "cvn_2032-1": {
+      "destiation channel": 4,
+      "source channel": 35124,
+      "state": "OPEN"
+    },
+    "darchub": {
+      "destiation channel": 0,
+      "source channel": 171,
+      "state": "OPEN"
+    },
+    "desmos-mainnet": {
+      "destiation channel": 2,
+      "source channel": 135,
+      "state": "OPEN"
+    },
+    "devmun": {
+      "destiation channel": 0,
+      "source channel": 757,
+      "state": "OPEN"
+    },
+    "devnet-2": {
+      "destiation channel": 0,
+      "source channel": 54,
+      "state": "OPEN"
+    },
+    "dhealth": {
+      "destiation channel": 0,
+      "source channel": 37505,
+      "state": "OPEN"
+    },
+    "dig-1": {
+      "destiation channel": 1,
+      "source channel": 128,
+      "state": "OPEN"
+    },
+    "dig-testnet-1": {
+      "destiation channel": 0,
+      "source channel": 16,
+      "state": "OPEN"
+    },
+    "dimension_37-1": {
+      "destiation channel": 4,
+      "source channel": 643,
+      "state": "OPEN"
+    },
+    "dorado-1": {
+      "destiation channel": 0,
+      "source channel": 211,
+      "state": "OPEN"
+    },
+    "doravota-devnet": {
+      "destiation channel": 0,
+      "source channel": 2162,
+      "state": "OPEN"
+    },
+    "dryrun-acoustic.5ae065b70eae1c": {
+      "destiation channel": 0,
+      "source channel": 85081,
+      "state": "OPEN"
+    },
+    "ductestgen_2603-1": {
+      "destiation channel": 0,
+      "source channel": 479,
+      "state": "OPEN"
+    },
+    "ductestnet_100-1": {
+      "destiation channel": 13,
+      "source channel": 265,
+      "state": "OPEN"
+    },
+    "dungeon-1": {
+      "destiation channel": 2,
+      "source channel": 85791,
+      "state": "OPEN"
+    },
+    "dydx-mainnet-1": {
+      "destiation channel": 3,
+      "source channel": 6787,
+      "state": "OPEN"
+    },
+    "dymension_1100-1": {
+      "destiation channel": 2,
+      "source channel": 19774,
+      "state": "OPEN"
+    },
+    "dyson-mainnet-01": {
+      "destiation channel": 0,
+      "source channel": 466,
+      "state": "OPEN"
+    },
+    "echelon_3000-3": {
+      "destiation channel": 2,
+      "source channel": 246,
+      "state": "OPEN"
+    },
+    "edgenet-1": {
+      "destiation channel": 101272,
+      "source channel": 101287,
+      "state": "OPEN"
+    },
+    "eightball": {
+      "destiation channel": 0,
+      "source channel": 561,
+      "state": "TRYOPEN"
+    },
+    "eightball-1": {
+      "destiation channel": 16,
+      "source channel": 641,
+      "state": "OPEN"
+    },
+    "elys-1": {
+      "destiation channel": 6,
+      "source channel": 91017,
+      "state": "OPEN"
+    },
+    "emoney-3": {
+      "destiation channel": 0,
+      "source channel": 37,
+      "state": "OPEN"
+    },
+    "empowerchain-1": {
+      "destiation channel": 1,
+      "source channel": 1411,
+      "state": "OPEN"
+    },
+    "evmos_9001-2": {
+      "destiation channel": 0,
+      "source channel": 204,
+      "state": "OPEN"
+    },
+    "exchain-66": {
+      "destiation channel": 1,
+      "source channel": 277,
+      "state": "OPEN"
+    },
+    "fandomChain": {
+      "destiation channel": 0,
+      "source channel": 107248,
+      "state": "OPEN"
+    },
+    "fetchhub-3": {
+      "destiation channel": 0,
+      "source channel": 175,
+      "state": "OPEN"
+    },
+    "fetchhub-4": {
+      "destiation channel": 10,
+      "source channel": 229,
+      "state": "OPEN"
+    },
+    "fifthrun-claw.e38116463585228a": {
+      "destiation channel": 0,
+      "source channel": 85753,
+      "state": "OPEN"
+    },
+    "fifthrun-excite.1f3516b0cdb1d8": {
+      "destiation channel": 0,
+      "source channel": 85755,
+      "state": "OPEN"
+    },
+    "fifthrun-power.9620f7c41e71499": {
+      "destiation channel": 0,
+      "source channel": 85754,
+      "state": "OPEN"
+    },
+    "fourthrun-kingdom.08dafdaac9d9": {
+      "destiation channel": 0,
+      "source channel": 85484,
+      "state": "OPEN"
+    },
+    "furya-1": {
+      "destiation channel": 3,
+      "source channel": 8690,
+      "state": "OPEN"
+    },
+    "fxcore": {
+      "destiation channel": 11,
+      "source channel": 784,
+      "state": "OPEN"
+    },
+    "galaxy-1": {
+      "destiation channel": 0,
+      "source channel": 236,
+      "state": "OPEN"
+    },
+    "genesis_29-2": {
+      "destiation channel": 0,
+      "source channel": 235,
+      "state": "OPEN"
+    },
+    "gitopia": {
+      "destiation channel": 0,
+      "source channel": 781,
+      "state": "OPEN"
+    },
+    "gravity-bridge-2": {
+      "destiation channel": 2,
+      "source channel": 129,
+      "state": "OPEN"
+    },
+    "gravity-bridge-3": {
+      "destiation channel": 10,
+      "source channel": 144,
+      "state": "OPEN"
+    },
+    "gyuguen-1": {
+      "destiation channel": 0,
+      "source channel": 52,
+      "state": "OPEN"
+    },
+    "haqq_11235-1": {
+      "destiation channel": 2,
+      "source channel": 1575,
+      "state": "OPEN"
+    },
+    "hippo-protocol-1": {
+      "destiation channel": 0,
+      "source channel": 104931,
+      "state": "OPEN"
+    },
+    "housefire-alpaca.cc0d3e0c033be": {
+      "destiation channel": 0,
+      "source channel": 97083,
+      "state": "OPEN"
+    },
+    "housefire-cotton.d3c912fee7462": {
+      "destiation channel": 0,
+      "source channel": 85042,
+      "state": "OPEN"
+    },
+    "housefire-head.a03c8e8948ed20b": {
+      "destiation channel": 0,
+      "source channel": 82127,
+      "state": "OPEN"
+    },
+    "housefire-reduce.e51ecf4264fc3": {
+      "destiation channel": 0,
+      "source channel": 84380,
+      "state": "OPEN"
+    },
+    "humans_1089-1": {
+      "destiation channel": 0,
+      "source channel": 15750,
+      "state": "OPEN"
+    },
+    "hygieia-1": {
+      "destiation channel": 0,
+      "source channel": 25203,
+      "state": "OPEN"
+    },
+    "hygieia-6": {
+      "destiation channel": 0,
+      "source channel": 60,
+      "state": "OPEN"
+    },
+    "imversed_1234-1": {
+      "destiation channel": 0,
+      "source channel": 515,
+      "state": "OPEN"
+    },
+    "imversed_5555555-1": {
+      "destiation channel": 0,
+      "source channel": 257,
+      "state": "OPEN"
+    },
+    "injective-1": {
+      "destiation channel": 5,
+      "source channel": 109,
+      "state": "OPEN"
+    },
+    "int3face-1": {
+      "destiation channel": 0,
+      "source channel": 82819,
+      "state": "OPEN"
+    },
+    "intento-1": {
+      "destiation channel": 3,
+      "source channel": 106076,
+      "state": "OPEN"
+    },
+    "internal-devnet-44a.f6efb9680a": {
+      "destiation channel": 0,
+      "source channel": 83075,
+      "state": "OPEN"
+    },
+    "internal-devnet-45a.1881abcfec": {
+      "destiation channel": 0,
+      "source channel": 89033,
+      "state": "OPEN"
+    },
+    "internal-devnet-46a.a4776ee846": {
+      "destiation channel": 1,
+      "source channel": 89297,
+      "state": "OPEN"
+    },
+    "internal-devnet-46b.6ba69cee15": {
+      "destiation channel": 3,
+      "source channel": 90485,
+      "state": "OPEN"
+    },
+    "interwoven-1": {
+      "destiation channel": 0,
+      "source channel": 100108,
+      "state": "OPEN"
+    },
+    "iov-mainnet-ibc": {
+      "destiation channel": 2,
+      "source channel": 15,
+      "state": "OPEN"
+    },
+    "ixo-4": {
+      "destiation channel": 21,
+      "source channel": 553,
+      "state": "OPEN"
+    },
+    "ixo-5": {
+      "destiation channel": 4,
+      "source channel": 38,
+      "state": "OPEN"
+    },
+    "jackal-1": {
+      "destiation channel": 0,
+      "source channel": 412,
+      "state": "OPEN"
+    },
+    "jmes-picasso": {
+      "destiation channel": 0,
+      "source channel": 8651,
+      "state": "OPEN"
+    },
+    "joe-1": {
+      "destiation channel": 13,
+      "source channel": 488,
+      "state": "OPEN"
+    },
+    "joltify_1729-1": {
+      "destiation channel": 3,
+      "source channel": 76486,
+      "state": "OPEN"
+    },
+    "joltifydev_1730-1": {
+      "destiation channel": 3,
+      "source channel": 39536,
+      "state": "OPEN"
+    },
+    "juno-1": {
+      "destiation channel": 0,
+      "source channel": 42,
+      "state": "OPEN"
+    },
+    "kaiyo-1": {
+      "destiation channel": 3,
+      "source channel": 259,
+      "state": "OPEN"
+    },
+    "kava-9": {
+      "destiation channel": 7,
+      "source channel": 213,
+      "state": "OPEN"
+    },
+    "kava_2221-16000": {
+      "destiation channel": 47,
+      "source channel": 413,
+      "state": "OPEN"
+    },
+    "kava_2222-10": {
+      "destiation channel": 1,
+      "source channel": 143,
+      "state": "OPEN"
+    },
+    "kichain-2": {
+      "destiation channel": 0,
+      "source channel": 77,
+      "state": "OPEN"
+    },
+    "kima_mainnet": {
+      "destiation channel": 0,
+      "source channel": 83350,
+      "state": "OPEN"
+    },
+    "kopi-dev-1": {
+      "destiation channel": 2,
+      "source channel": 98924,
+      "state": "OPEN"
+    },
+    "kopi-test-6": {
+      "destiation channel": 2,
+      "source channel": 97163,
+      "state": "OPEN"
+    },
+    "kyve-1": {
+      "destiation channel": 0,
+      "source channel": 767,
+      "state": "OPEN"
+    },
+    "lambda_92000-1": {
+      "destiation channel": 0,
+      "source channel": 349,
+      "state": "OPEN"
+    },
+    "laozi-mainnet": {
+      "destiation channel": 6,
+      "source channel": 81,
+      "state": "OPEN"
+    },
+    "lava-mainnet-1": {
+      "destiation channel": 1,
+      "source channel": 76971,
+      "state": "OPEN"
+    },
+    "likecoin-mainnet-2": {
+      "destiation channel": 3,
+      "source channel": 53,
+      "state": "OPEN"
+    },
+    "local-test-1": {
+      "destiation channel": 1,
+      "source channel": 27599,
+      "state": "OPEN"
+    },
+    "local-test-11": {
+      "destiation channel": 0,
+      "source channel": 467,
+      "state": "OPEN"
+    },
+    "local-test-5": {
+      "destiation channel": 0,
+      "source channel": 385,
+      "state": "OPEN"
+    },
+    "local-test-6": {
+      "destiation channel": 0,
+      "source channel": 386,
+      "state": "OPEN"
+    },
+    "local-test-7": {
+      "destiation channel": 1,
+      "source channel": 392,
+      "state": "OPEN"
+    },
+    "local-test-8": {
+      "destiation channel": 0,
+      "source channel": 397,
+      "state": "OPEN"
+    },
+    "local-test-9": {
+      "destiation channel": 0,
+      "source channel": 404,
+      "state": "OPEN"
+    },
+    "lorenzo_8329-1": {
+      "destiation channel": 0,
+      "source channel": 79840,
+      "state": "OPEN"
+    },
+    "lum-network-1": {
+      "destiation channel": 2,
+      "source channel": 114,
+      "state": "OPEN"
+    },
+    "lumera-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 106313,
+      "state": "OPEN"
+    },
+    "luwak-1": {
+      "destiation channel": 6,
+      "source channel": 88475,
+      "state": "OPEN"
+    },
+    "mainnet-3": {
+      "destiation channel": 1,
+      "source channel": 181,
+      "state": "OPEN"
+    },
+    "manifest-ledger-mainnet": {
+      "destiation channel": 0,
+      "source channel": 100418,
+      "state": "OPEN"
+    },
+    "mantle-1": {
+      "destiation channel": 0,
+      "source channel": 232,
+      "state": "OPEN"
+    },
+    "mantra-1": {
+      "destiation channel": 0,
+      "source channel": 85077,
+      "state": "OPEN"
+    },
+    "mars-1": {
+      "destiation channel": 1,
+      "source channel": 557,
+      "state": "OPEN"
+    },
+    "mcoin-1": {
+      "destiation channel": 0,
+      "source channel": 878,
+      "state": "OPEN"
+    },
+    "medasdigital-1": {
+      "destiation channel": 0,
+      "source channel": 516,
+      "state": "OPEN"
+    },
+    "medasdigital-2": {
+      "destiation channel": 0,
+      "source channel": 87042,
+      "state": "OPEN"
+    },
+    "medasdigital-test": {
+      "destiation channel": 0,
+      "source channel": 346,
+      "state": "OPEN"
+    },
+    "meme-1": {
+      "destiation channel": 1,
+      "source channel": 238,
+      "state": "OPEN"
+    },
+    "meme-local-1": {
+      "destiation channel": 3,
+      "source channel": 315,
+      "state": "OPEN"
+    },
+    "meme-testnet-1": {
+      "destiation channel": 0,
+      "source channel": 316,
+      "state": "OPEN"
+    },
+    "microtick-1": {
+      "destiation channel": 0,
+      "source channel": 25,
+      "state": "OPEN"
+    },
+    "migaloo-1": {
+      "destiation channel": 5,
+      "source channel": 642,
+      "state": "OPEN"
+    },
+    "milkyway": {
+      "destiation channel": 0,
+      "source channel": 89298,
+      "state": "OPEN"
+    },
+    "mitosis-3": {
+      "destiation channel": 0,
+      "source channel": 8681,
+      "state": "OPEN"
+    },
+    "mitt-1": {
+      "destiation channel": 0,
+      "source channel": 5886,
+      "state": "OPEN"
+    },
+    "morocco-1": {
+      "destiation channel": 1,
+      "source channel": 6738,
+      "state": "OPEN"
+    },
+    "mtgbp-1": {
+      "destiation channel": 2,
+      "source channel": 104889,
+      "state": "OPEN"
+    },
+    "mtt_6880-1": {
+      "destiation channel": 0,
+      "source channel": 85403,
+      "state": "OPEN"
+    },
+    "mun-1": {
+      "destiation channel": 1,
+      "source channel": 2012,
+      "state": "OPEN"
+    },
+    "namada-dryrun.abaaeaf7b78cb3ac": {
+      "destiation channel": 0,
+      "source channel": 86535,
+      "state": "OPEN"
+    },
+    "namada.5f5de2dd1b88cba30586420": {
+      "destiation channel": 1,
+      "source channel": 98451,
+      "state": "OPEN"
+    },
+    "net-8": {
+      "destiation channel": 0,
+      "source channel": 541,
+      "state": "OPEN"
+    },
+    "neutron-1": {
+      "destiation channel": 29,
+      "source channel": 871,
+      "state": "OPEN"
+    },
+    "nillion-1": {
+      "destiation channel": 0,
+      "source channel": 98415,
+      "state": "OPEN"
+    },
+    "noble-1": {
+      "destiation channel": 1,
+      "source channel": 750,
+      "state": "OPEN"
+    },
+    "nois-1": {
+      "destiation channel": 37,
+      "source channel": 8277,
+      "state": "OPEN"
+    },
+    "nolus-local-v0.4.2-1702391905": {
+      "destiation channel": 0,
+      "source channel": 11568,
+      "state": "OPEN"
+    },
+    "nolus-local-v0.4.2-1702469598": {
+      "destiation channel": 0,
+      "source channel": 11724,
+      "state": "OPEN"
+    },
+    "nom-internal-0": {
+      "destiation channel": 0,
+      "source channel": 300,
+      "state": "OPEN"
+    },
+    "nomic-stakenet-3": {
+      "destiation channel": 1,
+      "source channel": 6897,
+      "state": "OPEN"
+    },
+    "nomic-testnet-4d": {
+      "destiation channel": 0,
+      "source channel": 5308,
+      "state": "OPEN"
+    },
+    "nyx": {
+      "destiation channel": 1,
+      "source channel": 228,
+      "state": "OPEN"
+    },
+    "oasis-1": {
+      "destiation channel": 3,
+      "source channel": 266,
+      "state": "OPEN"
+    },
+    "oasis-2": {
+      "destiation channel": 0,
+      "source channel": 299,
+      "state": "OPEN"
+    },
+    "odin-mainnet-freya": {
+      "destiation channel": 1,
+      "source channel": 142,
+      "state": "OPEN"
+    },
+    "omniflixhub-1": {
+      "destiation channel": 1,
+      "source channel": 199,
+      "state": "OPEN"
+    },
+    "onex-mainnet-1": {
+      "destiation channel": 6,
+      "source channel": 74628,
+      "state": "OPEN"
+    },
+    "onomy-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 525,
+      "state": "OPEN"
+    },
+    "optio": {
+      "destiation channel": 0,
+      "source channel": 101132,
+      "state": "OPEN"
+    },
+    "ovg": {
+      "destiation channel": 1,
+      "source channel": 38781,
+      "state": "OPEN"
+    },
+    "pacific-1": {
+      "destiation channel": 0,
+      "source channel": 782,
+      "state": "OPEN"
+    },
+    "panacea-3": {
+      "destiation channel": 0,
+      "source channel": 74,
+      "state": "OPEN"
+    },
+    "passage-2": {
+      "destiation channel": 0,
+      "source channel": 2494,
+      "state": "OPEN"
+    },
+    "paxi-mainnet": {
+      "destiation channel": 0,
+      "source channel": 107354,
+      "state": "OPEN"
+    },
+    "penumbra-1": {
+      "destiation channel": 4,
+      "source channel": 79703,
+      "state": "OPEN"
+    },
+    "perun-1": {
+      "destiation channel": 1,
+      "source channel": 22172,
+      "state": "OPEN"
+    },
+    "phoenix-1": {
+      "destiation channel": 1,
+      "source channel": 251,
+      "state": "OPEN"
+    },
+    "pio-mainnet-1": {
+      "destiation channel": 2,
+      "source channel": 116,
+      "state": "OPEN"
+    },
+    "pirin-1": {
+      "destiation channel": 0,
+      "source channel": 783,
+      "state": "OPEN"
+    },
+    "planq_7070-2": {
+      "destiation channel": 1,
+      "source channel": 492,
+      "state": "OPEN"
+    },
+    "poggers": {
+      "destiation channel": 0,
+      "source channel": 26768,
+      "state": "OPEN"
+    },
+    "pryzm-1": {
+      "destiation channel": 2,
+      "source channel": 75755,
+      "state": "OPEN"
+    },
+    "pylons-mainnet-1": {
+      "destiation channel": 29,
+      "source channel": 17683,
+      "state": "OPEN"
+    },
+    "qfs-1": {
+      "destiation channel": 0,
+      "source channel": 105393,
+      "state": "OPEN"
+    },
+    "qom_766-1": {
+      "destiation channel": 0,
+      "source channel": 78711,
+      "state": "OPEN"
+    },
+    "qsr-questnet-05": {
+      "destiation channel": 69,
+      "source channel": 654,
+      "state": "TRYOPEN"
+    },
+    "quasar-1": {
+      "destiation channel": 1,
+      "source channel": 688,
+      "state": "OPEN"
+    },
+    "quicksilver-1": {
+      "destiation channel": 1,
+      "source channel": 520,
+      "state": "OPEN"
+    },
+    "quicksilver-2": {
+      "destiation channel": 2,
+      "source channel": 522,
+      "state": "OPEN"
+    },
+    "qwoyn-1": {
+      "destiation channel": 0,
+      "source channel": 880,
+      "state": "OPEN"
+    },
+    "realionetwork_3301-1": {
+      "destiation channel": 0,
+      "source channel": 1011,
+      "state": "OPEN"
+    },
+    "reb_1111-1": {
+      "destiation channel": 0,
+      "source channel": 355,
+      "state": "OPEN"
+    },
+    "regen-1": {
+      "destiation channel": 1,
+      "source channel": 8,
+      "state": "OPEN"
+    },
+    "router_9600-1": {
+      "destiation channel": 0,
+      "source channel": 78692,
+      "state": "OPEN"
+    },
+    "scorum": {
+      "destiation channel": 0,
+      "source channel": 23210,
+      "state": "OPEN"
+    },
+    "scorum-1": {
+      "destiation channel": 1,
+      "source channel": 20100,
+      "state": "OPEN"
+    },
+    "secondrun-whip.cded7b7d328afc1": {
+      "destiation channel": 0,
+      "source channel": 85225,
+      "state": "OPEN"
+    },
+    "secret-4": {
+      "destiation channel": 1,
+      "source channel": 88,
+      "state": "OPEN"
+    },
+    "seda-1": {
+      "destiation channel": 0,
+      "source channel": 75016,
+      "state": "OPEN"
+    },
+    "self-1": {
+      "destiation channel": 1,
+      "source channel": 78292,
+      "state": "OPEN"
+    },
+    "sentinelhub-2": {
+      "destiation channel": 0,
+      "source channel": 2,
+      "state": "OPEN"
+    },
+    "sgenet-1": {
+      "destiation channel": 0,
+      "source channel": 5485,
+      "state": "OPEN"
+    },
+    "shentu-2.2": {
+      "destiation channel": 2,
+      "source channel": 100,
+      "state": "OPEN"
+    },
+    "shido_9008-1": {
+      "destiation channel": 0,
+      "source channel": 38921,
+      "state": "OPEN"
+    },
+    "sidechain-1": {
+      "destiation channel": 0,
+      "source channel": 98081,
+      "state": "OPEN"
+    },
+    "sifchain-1": {
+      "destiation channel": 17,
+      "source channel": 47,
+      "state": "OPEN"
+    },
+    "sifchain-devnet-1": {
+      "destiation channel": 122,
+      "source channel": 34,
+      "state": "OPEN"
+    },
+    "sifchain-testnet-1": {
+      "destiation channel": 21,
+      "source channel": 32,
+      "state": "OPEN"
+    },
+    "sixthrun-recall.c5d0a5fa4eddde": {
+      "destiation channel": 0,
+      "source channel": 85796,
+      "state": "OPEN"
+    },
+    "skip-1": {
+      "destiation channel": 0,
+      "source channel": 22284,
+      "state": "OPEN"
+    },
+    "sommelier-3": {
+      "destiation channel": 0,
+      "source channel": 165,
+      "state": "OPEN"
+    },
+    "source-1": {
+      "destiation channel": 0,
+      "source channel": 8945,
+      "state": "OPEN"
+    },
+    "spidex_9111-1": {
+      "destiation channel": 1,
+      "source channel": 323,
+      "state": "OPEN"
+    },
+    "ssc-1": {
+      "destiation channel": 1,
+      "source channel": 38946,
+      "state": "OPEN"
+    },
+    "stafihub-1": {
+      "destiation channel": 10,
+      "source channel": 5413,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-3": {
+      "destiation channel": 2,
+      "source channel": 102886,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-4": {
+      "destiation channel": 1,
+      "source channel": 103355,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-7": {
+      "destiation channel": 1,
+      "source channel": 104027,
+      "state": "OPEN"
+    },
+    "stagingchain_9000-8": {
+      "destiation channel": 1,
+      "source channel": 104657,
+      "state": "OPEN"
+    },
+    "stargaze-1": {
+      "destiation channel": 0,
+      "source channel": 75,
+      "state": "OPEN"
+    },
+    "stratos-1": {
+      "destiation channel": 0,
+      "source channel": 78678,
+      "state": "OPEN"
+    },
+    "stride-1": {
+      "destiation channel": 5,
+      "source channel": 326,
+      "state": "OPEN"
+    },
+    "stride-test-1": {
+      "destiation channel": 2,
+      "source channel": 99043,
+      "state": "OPEN"
+    },
+    "stwart_test_1": {
+      "destiation channel": 0,
+      "source channel": 79169,
+      "state": "OPEN"
+    },
+    "sunrise-1": {
+      "destiation channel": 3,
+      "source channel": 106275,
+      "state": "OPEN"
+    },
+    "symphony-1": {
+      "destiation channel": 0,
+      "source channel": 104867,
+      "state": "OPEN"
+    },
+    "synternet-1": {
+      "destiation channel": 0,
+      "source channel": 85074,
+      "state": "OPEN"
+    },
+    "taketitan-1": {
+      "destiation channel": 0,
+      "source channel": 104765,
+      "state": "OPEN"
+    },
+    "tcap-stage01": {
+      "destiation channel": 0,
+      "source channel": 524,
+      "state": "OPEN"
+    },
+    "teritori-1": {
+      "destiation channel": 0,
+      "source channel": 362,
+      "state": "OPEN"
+    },
+    "test": {
+      "destiation channel": 0,
+      "source channel": 185,
+      "state": "OPEN"
+    },
+    "test-1": {
+      "destiation channel": 0,
+      "source channel": 327,
+      "state": "OPEN"
+    },
+    "test-chain-n0m1c": {
+      "destiation channel": 0,
+      "source channel": 5310,
+      "state": "OPEN"
+    },
+    "test-chain-n0m1c-4": {
+      "destiation channel": 0,
+      "source channel": 6748,
+      "state": "OPEN"
+    },
+    "test-chain-nomic": {
+      "destiation channel": 0,
+      "source channel": 5405,
+      "state": "OPEN"
+    },
+    "testing": {
+      "destiation channel": 1,
+      "source channel": 45,
+      "state": "OPEN"
+    },
+    "testmun-3": {
+      "destiation channel": 11,
+      "source channel": 768,
+      "state": "OPEN"
+    },
+    "testnet_2-1": {
+      "destiation channel": 13,
+      "source channel": 304,
+      "state": "OPEN"
+    },
+    "testy-1": {
+      "destiation channel": 11,
+      "source channel": 649,
+      "state": "OPEN"
+    },
+    "tgrade-mainnet-1": {
+      "destiation channel": 0,
+      "source channel": 263,
+      "state": "OPEN"
+    },
+    "thirdrun-snap.1068174d124c5a01": {
+      "destiation channel": 0,
+      "source channel": 85248,
+      "state": "OPEN"
+    },
+    "titan-1": {
+      "destiation channel": 1,
+      "source channel": 221,
+      "state": "OPEN"
+    },
+    "titan-test-4": {
+      "destiation channel": 3,
+      "source channel": 90790,
+      "state": "OPEN"
+    },
+    "tsc_87878-1": {
+      "destiation channel": 1,
+      "source channel": 107268,
+      "state": "OPEN"
+    },
+    "umee-1": {
+      "destiation channel": 0,
+      "source channel": 184,
+      "state": "OPEN"
+    },
+    "uni-3": {
+      "destiation channel": 257,
+      "source channel": 342,
+      "state": "OPEN"
+    },
+    "ununifi-beta-v1": {
+      "destiation channel": 3,
+      "source channel": 2516,
+      "state": "OPEN"
+    },
+    "vidulum-1": {
+      "destiation channel": 0,
+      "source channel": 124,
+      "state": "OPEN"
+    },
+    "void-1": {
+      "destiation channel": 0,
+      "source channel": 100666,
+      "state": "OPEN"
+    },
+    "vota-ash": {
+      "destiation channel": 0,
+      "source channel": 2694,
+      "state": "OPEN"
+    },
+    "vota-testnet": {
+      "destiation channel": 0,
+      "source channel": 6665,
+      "state": "OPEN"
+    },
+    "weave-beta-local-v5": {
+      "destiation channel": 0,
+      "source channel": 6153,
+      "state": "OPEN"
+    },
+    "weave-beta-v3": {
+      "destiation channel": 15,
+      "source channel": 6033,
+      "state": "OPEN"
+    },
+    "weave-beta-v4": {
+      "destiation channel": 0,
+      "source channel": 6050,
+      "state": "OPEN"
+    },
+    "wormchain": {
+      "destiation channel": 2,
+      "source channel": 2182,
+      "state": "OPEN"
+    },
+    "xion-mainnet-1": {
+      "destiation channel": 1,
+      "source channel": 89321,
+      "state": "OPEN"
+    },
+    "xrplevm_1440000-1": {
+      "destiation channel": 3,
+      "source channel": 104325,
+      "state": "OPEN"
+    },
+    "xstaxy-1": {
+      "destiation channel": 10,
+      "source channel": 11304,
+      "state": "OPEN"
+    }
+  }
+}
