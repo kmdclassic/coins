@@ -927,42 +927,47 @@ def filter_wss(coins_config):
 
 
 def generate_binance_api_ids(coins_config):
-    kdf_coins = coins_config.keys()
-    r = requests.get("https://defi-stats.komodo.earth/api/v3/binance/ticker_price")
-    binance_tickers = r.json()
-    pairs = []
-    for ticker in binance_tickers:
-        pair = ticker["symbol"]
-        for quote in binance_quote_tickers:
-            if ticker["symbol"].startswith(quote):
-                pair = (quote, ticker["symbol"].replace(quote, ""))
-                break
-            elif ticker["symbol"].endswith(quote):
-                pair = (ticker["symbol"].replace(quote, ""), quote)
-                break
-            
-        pairs.append(pair)
-    unknown_ids = [i for i in pairs if isinstance(i, str)]
-    known_ids = [i for i in pairs if isinstance(i, tuple)]
+    try:
+        # TODO: Update URL to use new API.
+        kdf_coins = coins_config.keys()    
+        r = requests.get("https://defi-stats.komodo.earth/api/v3/binance/ticker_price")
+        binance_tickers = r.json()
+        pairs = []
+        for ticker in binance_tickers:
+            pair = ticker["symbol"]
+            for quote in binance_quote_tickers:
+                if ticker["symbol"].startswith(quote):
+                    pair = (quote, ticker["symbol"].replace(quote, ""))
+                    break
+                elif ticker["symbol"].endswith(quote):
+                    pair = (ticker["symbol"].replace(quote, ""), quote)
+                    break
+                
+            pairs.append(pair)
+        unknown_ids = [i for i in pairs if isinstance(i, str)]
+        known_ids = [i for i in pairs if isinstance(i, tuple)]
 
-    if unknown_ids:
-        logger.warning(f"Unknown ids: {unknown_ids}")
+        if unknown_ids:
+            logger.warning(f"Unknown ids: {unknown_ids}")
 
-    api_ids = {}
-    known_id_coins = list(set([i[0] for i in known_ids] + [i[1] for i in known_ids]))
-    for coin in kdf_coins:
-        ticker = coin.split("-")[0]
-        if ticker in known_id_coins:
-            if ticker not in BINANCE_DELISTED_COINS and ticker not in MISMATCHED_IDS:
-                api_ids.update({coin: ticker})
+        api_ids = {}
+        known_id_coins = list(set([i[0] for i in known_ids] + [i[1] for i in known_ids]))
+        for coin in kdf_coins:
+            ticker = coin.split("-")[0]
+            if ticker in known_id_coins:
+                if ticker not in BINANCE_DELISTED_COINS and ticker not in MISMATCHED_IDS:
+                    api_ids.update({coin: ticker})
 
-    with open(f"{repo_path}/api_ids/binance_ids.json", "w") as f:
-        json.dump(api_ids, f, indent=4)
+        with open(f"{repo_path}/api_ids/binance_ids.json", "w") as f:
+            json.dump(api_ids, f, indent=4)
 
-    # To use for candlestick data, reference api_ids/binance_ids.json
-    # to get the base and quote id for a pair then concatentate them with no separator
-    # Example candlestick url: https://api.binance.com/api/v3/klines?symbol=BNBBTC&interval=1d&limit=1000
-    # Valid interval values are listed at https://binance-docs.github.io/apidocs/spot/en/#public-api-definitions
+        # To use for candlestick data, reference api_ids/binance_ids.json
+        # to get the base and quote id for a pair then concatentate them with no separator
+        # Example candlestick url: https://api.binance.com/api/v3/klines?symbol=BNBBTC&interval=1d&limit=1000
+        # Valid interval values are listed at https://binance-docs.github.io/apidocs/spot/en/#public-api-definitions
+    except Exception as e:
+        logger.error(f"Failed to generate binance api ids: {e}")
+        return
 
 
 def sort_dict(d):

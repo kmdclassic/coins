@@ -138,7 +138,7 @@ class ElectrumServer:
             return e
 
 
-
+# TODO: Update to use new URL.
 def create_komodo_auth_payload(target_uri: str) -> str:
     """
     Create authentication payload for komodo.earth endpoints
@@ -165,6 +165,7 @@ def create_komodo_auth_payload(target_uri: str) -> str:
     return json.dumps(auth_payload)
 
 
+# TODO: Update to use new URL.
 def get_komodo_auth_headers(url: str) -> dict:
     """Get authentication headers for komodo.earth endpoints"""
     if 'node.komodo.earth' in url:

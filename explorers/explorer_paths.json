@@ -154,23 +154,10 @@
 		"explorer_address_url": "#/address/",
 		"explorer_block_url": "#/blocks/"
 	},
-	"https://nucleus.explorer.komodo.earth/": {
-		"explorer_tx_url": "nucleus/transactions/",
-		"explorer_address_url": "nucleus/accounts/",
-		"explorer_block_url": "nucleus/blocks/"
-	},
-	"https://sia-walletd.komodo.earth/api/": {
-		"explorer_address_url": "nucleus/accounts/",
-		"explorer_tx_url": "addresses/{ADDRESS}/events/"
-	},
 	"https://explorer.junk-coin.com/": {
 			"explorer_tx_url": "tx/",
 			"explorer_address_url": "address/",
 			"explorer_block_url": "block/"
-	},
-	"https://api.siascan.com/anagami/wallet/api/": {
-		"explorer_address_url": "nucleus/accounts/",
-		"explorer_tx_url": "addresses/{ADDRESS}/events/"
 	},
 	"https://kmdexplorer.io/": {
 			"explorer_tx_url": "tx/",
