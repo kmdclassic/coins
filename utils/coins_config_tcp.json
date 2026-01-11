@@ -21438,6 +21438,55 @@
         "is_claimable": true,
         "minimal_claim_amount": "10"
     },
+    "KMDCL": {
+        "coin": "KMDCL",
+        "type": "Smart Chain",
+        "name": "KomodoClassic",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.kmdclassic.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "fname": "KomodoClassic",
+        "rpcport": 7771,
+        "pubtype": 60,
+        "p2shtype": 85,
+        "wiftype": 188,
+        "txversion": 4,
+        "overwintered": 1,
+        "version_group_id": "0x892f2085",
+        "consensus_branch_id": "0x64726d6e",
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "requires_notarization": true,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "links": {
+            "github": "https://github.com/kmdclassic/KmdClassic",
+            "homepage": "https://kmdclassic.com/"
+        },
+        "electrum": [
+            {
+                "url": "electrum.kmdclassic.com:50002",
+                "protocol": "SSL"
+            }
+        ],
+        "explorer_block_url": "block/",
+        "is_claimable": true,
+        "minimal_claim_amount": "10"
+    },
     "KMD-BEP20": {
         "coin": "KMD-BEP20",
         "type": "BEP-20",

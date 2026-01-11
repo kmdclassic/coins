@@ -4594,6 +4594,58 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "BITN": {
+        "coin": "BITN",
+        "type": "UTXO",
+        "name": "Bitnet",
+        "coinpaprika_id": "bit-bitnet",
+        "coingecko_id": "bitnet-io",
+        "livecoinwatch_id": "________BIT",
+        "explorer_url": "https://bitnet.outsidethebox.top/explorer/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Bitnet Signed Message:\n",
+        "fname": "Bitnet",
+        "rpcport": 9332,
+        "pubtype": 25,
+        "p2shtype": 22,
+        "wiftype": 158,
+        "txfee": 700000,
+        "segwit": true,
+        "bech32_hrp": "bit",
+        "mm2": 1,
+        "required_confirmations": 1,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "electrum": [
+            {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BCZERO": {
         "coin": "BCZERO",
         "type": "Smart Chain",
@@ -19940,6 +19992,55 @@
                         "discord": "cipi#4502"
                     }
                 ]
+            }
+        ],
+        "explorer_block_url": "block/",
+        "is_claimable": true,
+        "minimal_claim_amount": "10"
+    },
+    "KMDCL": {
+        "coin": "KMDCL",
+        "type": "Smart Chain",
+        "name": "KomodoClassic",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.kmdclassic.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Komodo Signed Message:\n",
+        "fname": "KomodoClassic",
+        "rpcport": 7771,
+        "pubtype": 60,
+        "p2shtype": 85,
+        "wiftype": 188,
+        "txversion": 4,
+        "overwintered": 1,
+        "version_group_id": "0x892f2085",
+        "consensus_branch_id": "0x64726d6e",
+        "txfee": 1000,
+        "mm2": 1,
+        "required_confirmations": 2,
+        "requires_notarization": true,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/141'",
+        "trezor_coin": "Komodo",
+        "links": {
+            "github": "https://github.com/kmdclassic/KmdClassic",
+            "homepage": "https://kmdclassic.com/"
+        },
+        "electrum": [
+            {
+                "url": "electrum.kmdclassic.com:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/",

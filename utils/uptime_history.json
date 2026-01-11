@@ -1020,13 +1020,15 @@
         "1768093005": "online"
       },
       "bit-e.minethepla.net:50004": {
-        "1768093005": "offline"
+        "1768093005": "offline",
+        "1768156524": "online"
       },
       "bit-e.outsidethebox.top:50002": {
         "1768093005": "online"
       },
       "bit-e.outsidethebox.top:50004": {
-        "1768093005": "offline"
+        "1768093005": "offline",
+        "1768156524": "online"
       },
       "bitchair.io:50001": {
         "1755770395": "offline"
@@ -4545,6 +4547,22 @@
       }
     }
   },
+  "KMDCL": {
+    "all": {
+      "1768156524": "online"
+    },
+    "by_server": {
+      "electrum.kmdclassic.com:50001": {
+        "1768156524": "online"
+      },
+      "electrum.kmdclassic.com:50002": {
+        "1768156524": "online"
+      },
+      "electrum.kmdclassic.com:50004": {
+        "1768156524": "online"
+      }
+    }
+  },
   "KOIN": {
     "all": {
       "1755770395": "online"
@@ -5585,7 +5603,8 @@
         "1764337728": "offline",
         "1764587127": "online",
         "1768093005": "offline",
-        "1768094933": "online"
+        "1768094933": "online",
+        "1768156524": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
