@@ -347,7 +347,7 @@ class CoinConfig:
             )
 
     def get_rewards_info(self):
-        if self.ticker in ["KMD"]:
+        if self.ticker in ["KMD", "KMDCL"]:
             self.data[self.ticker].update(
                 {"is_claimable": True, "minimal_claim_amount": "10"}
             )

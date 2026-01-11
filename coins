@@ -8190,6 +8190,34 @@
     }
   },
   {
+    "coin": "KMDCL",
+    "name": "KomodoClassic",
+    "fname": "KomodoClassic",
+    "rpcport": 7771,
+    "pubtype": 60,
+    "p2shtype": 85,
+    "wiftype": 188,
+    "txversion": 4,
+    "overwintered": 1,
+    "version_group_id": "0x892f2085",
+    "consensus_branch_id": "0x64726d6e",
+    "txfee": 1000,
+    "mm2": 1,
+    "sign_message_prefix": "Komodo Signed Message:\n",
+    "required_confirmations": 2,
+    "requires_notarization": true,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/141'",
+    "trezor_coin": "Komodo",
+    "links": {
+      "github": "https://github.com/kmdclassic/KmdClassic",
+      "homepage": "https://kmdclassic.com/"
+    }
+  },
+  {
     "coin": "KMD-BEP20",
     "name": "kmd_bep20",
     "fname": "Komodo",
